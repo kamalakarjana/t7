@@ -7,7 +7,7 @@ trigger:
 variables:
   terraformVersion: '1.5.7'
   acrName: 'acrterraformdevops'
-  aksClusterName: 'aks-cluster-dev'
+  aksClusterName: 'aks-cluster-dev1'
   resourceGroup: 'rg-aks-terraform-devops'
 
 stages:
